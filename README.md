@@ -1,1 +1,22 @@
-# GabbyWP
+# Gabby Theme
+
+- `GabbyTheme/`
+  - `style.css`
+  - `index.php`
+  - `functions.php`
+  - `header.php`
+  - `footer.php`
+  - `sidebar.php`
+  - `single.php`
+  - `page.php`
+  - `archive.php`
+  - `404.php`
+  - `assets/`
+    - `css/`
+      - `responsive.css`
+    - `js/`
+      - `scripts.js`
+    - `images/`
+      - *(immagini del tema)*
+  - `template-parts/`
+    - *(file di template riutilizzabili)*
